@@ -48,4 +48,9 @@ Repository for Team Assignment for CIST2100 University Nebraska Omaha
 
 #Task 2:
 
-![alt text](https://prnt.sc/ry4ohi "Website Image 1")
+#Website Images:
+https://prnt.sc/ry4ohi
+https://prnt.sc/ry4pc8
+https://prnt.sc/ry4phj
+https://prnt.sc/ry4pn0
+
