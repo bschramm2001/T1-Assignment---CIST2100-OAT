@@ -43,10 +43,10 @@ Repository for Team Assignment for CIST2100 University Nebraska Omaha
 
 #Team Leader: Ben Schramm
 
-#Task 1:
+#Task 1: To serve high quality image capturing for our security cameras, would would like to partner with Canon to source camera lenses to be implemented in our products. We would also like to partner with Microsoft to help us build a state of the art home security platform that would process information seamlessly as well as provide a strong network connecting our security cameras to our server.
 
 
-#Task 2:
+#Task 2: For canon, they would provide raw goods to be implemented in our finished product of security cameras. Microsoft would help us provide services that would allow us to perform ley activities in the software side of business.
 
 #Website Images:
 https://prnt.sc/ry4ohi
