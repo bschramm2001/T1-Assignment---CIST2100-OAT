@@ -38,3 +38,14 @@ Repository for Team Assignment for CIST2100 University Nebraska Omaha
 #Task 4: Our business will be based on a monthly subscription fee, with an initial installation fee to set up the camera(s). Customers would have their own personal accounts which they are able to sign in with using the Maverick Monitoring mobile application to monitor the security of their properties. Cameras installed in the properties are connected via Wi-Fi to our privatized server, which then feeds customer's live information about their properties. Customers has the ability to put down a work order if they need a maintenance request about their cameras. From this network, administration side are able to look over all the accounts through a company database.
 
 #Task 5: Our business operation activities and resources would work seamlessly considering the simplicity of how our product is run. The key to this business is a physical and digital product working in harmony to produce the upmost sense of security for our customers.
+
+--------------------------------------- Assignment 4--------------------------------------------------------------
+
+#Team Leader: Ben Schramm
+
+#Task 1:
+
+
+#Task 2:
+
+![alt text](https://prnt.sc/ry4ohi "Website Image 1")
