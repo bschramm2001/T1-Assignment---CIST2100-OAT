@@ -60,8 +60,10 @@ https://prnt.sc/ry4pn0
 
 #### Task 2: Research Finncial Plan
 
-#### Task 3: We are planning on getting a loan for star up cost. We expect these cost to be around 1 million for initial hardware, softeware, and advertisment. Once we have a small customer base we plan on growing quickly due to our services. The monthly revenue from customers will help us grow and continue providing services to our customers. We also plan to grow our customer relationship through our app that can help neighbors stay in touch and informed on suspicous or hazardous activites.
+#### Task 3: We are planning on getting a loan for start up cost. We expect these cost to be around 1 million for initial hardware, softeware, and advertisment. Once we have a small customer base we plan on growing quickly due to our services. The monthly revenue from customers will help us grow and continue providing services to our customers. We also plan to grow our customer relationship through our app that can help neighbors stay in touch and informed on suspicous or hazardous activites. Our goal is to acquire enough capital for our start up phase, as well as maintaing capital for our cash flow management to keep the business running.
 
 #### Task 4: Our main revenue stream will come from existing customers paying a monthly fee for services. We will grow this number by adding new customers and providing services. We will sell the hardware along with labor of installing for an initial cost but services after that will be charged via monthly fee. We can also sell database collections to companies. 
 
-#### Task 5: 
+#### Task 5: Year one - Aquire a capital of 1 million dollars. 70% of capital will go to initial productions both physical and digital (cameras, mobile application, and database). 30% will go towards advertisement and customer support.
+Year two: Because of our membership nature of our business, all of our revenue will be put back into our business. With some excess from our last year's capital, we will have our initial production cost be decreased to 50% and increasing our advertisement and customer support aspect by 20%.
+Year Three: We will garner data based on our previous years and use the data to base our production costs. In this year, we will have our financials to react upon the demand of our business. As our business grow, we will seek to expand our business across the country by raising more capital.
